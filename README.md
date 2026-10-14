@@ -40,6 +40,7 @@ For business inquiries, visit our website to discuss your requirements and avail
 
 *This repository is for educational and professional reference. Each website and campaign should be evaluated individually; no search ranking or traffic outcome is guaranteed.*
 ## Explore More TrustLinkSEO Resources
+- [How to Evaluate Guest Posting Websites](https://github.com/TrustLinkSEO/seo-resources/blob/main/how-to-evaluate-guest-posting-websites.md)
 
 Looking for more SEO and digital marketing resources? Explore our guides:
 
