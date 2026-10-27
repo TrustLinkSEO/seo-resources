@@ -49,3 +49,18 @@ Looking for more SEO and digital marketing resources? Explore our guides:
 - [Press Release Resources](https://github.com/TrustLinkSEO/press-release-resources)
 
 Visit our website: https://trustlinkseo.com/
+
+
+## Free SEO Tools by TrustLinkSEO
+
+Explore our free online tools to simplify common SEO and digital marketing tasks.
+
+1. [Outreach Email Generator](https://trustlinkseo.com/tools/outreach-email-generator/) — Draft personalized outreach emails.
+2. [Keyword Density Checker](https://trustlinkseo.com/tools/keyword-density-checker/) — Analyze keyword frequency in content.
+3. [Domain Rating Checker](https://trustlinkseo.com/tools/domain-rating-checker/) — Check domain rating metrics supported by the tool.
+4. [Domain Age Checker](https://trustlinkseo.com/tools/domain-age-checker/) — Check domain age information.
+5. [Headings Structure Validator](https://trustlinkseo.com/tools/headings-structure-validator/) — Review heading structure.
+6. [URL Slug Generator](https://trustlinkseo.com/tools/url-slug-generator/) — Create readable URL slugs.
+7. [Free SEO, GEO & AEO Audit](https://trustlinkseo.com/tools/free-seo-geo-aeo-audit/) — Review website optimization opportunities.
+
+Visit [TrustLinkSEO](https://trustlinkseo.com/) for guest posting, link building, and press release distribution services.
